@@ -1,0 +1,1 @@
+{"name":"やすの楽譜プレイヤー","short_name":"楽譜プレイヤー","description":"ヘ音記号・実音の楽譜を入力して再生","start_url":"./","scope":"./","display":"standalone","background_color":"#edf4f7","theme_color":"#153e54","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
