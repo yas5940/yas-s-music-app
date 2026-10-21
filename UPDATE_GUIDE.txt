@@ -1,0 +1,10 @@
+やすの音楽練習アプリ v2 更新手順
+
+・既存の yas-s-music-app リポジトリはそのまま使用します。
+・index.html, sw.js, README.txt, manifest.webmanifest, icon-192.png, icon-512.png はルートへ。
+・tuner/index.html と tuner/sw.js は tuner フォルダ内で置換。
+・score/index.html, score/app.js, score/sw.js は score フォルダ内で置換。
+・同名ファイルは新しい内容に上書きしてください。GitHub Web のアップロードで上書きできない場合は各ファイルの編集画面から内容を置換します。
+・GitHub Pages 公開後、iPhone Safariで再読み込み。古い表示ならホーム画面アプリを終了して再起動し、オンラインで再読み込みしてください。
+・入力した曲は更新前に「曲データを保存」からJSONを書き出してください。
+・学校iPadではマイクやホーム画面追加が制限されることがあります。
